@@ -1,0 +1,11 @@
+nth fibbonacci flowchat
+WAp wheather n is prime or not
+WAP wheather 3 given numbers are in ascebding or descending order
+average of three numbers
+WAP wheatther given sides are triangle or not
+product of factorial numbers
+WAP for even numbers
+find hcf and lcm
+print all primes
+check if number is a part of fibonnaci or not
+///flowchat for loops

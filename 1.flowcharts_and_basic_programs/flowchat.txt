@@ -1,0 +1,6 @@
+way to repressent code through diagrams which is fully independent of code of any lannguages.
+oval shaped means starting and ending of program
+parallelogram means giving input and output
+diamond shape means consditional operatons
+arrows are to connect these shapes 
+rectangle means calculationa or process 

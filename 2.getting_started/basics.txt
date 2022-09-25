@@ -1,0 +1,13 @@
+to cmpile a program
+g++ filename.cpp
+./programm.out
+#include<bits/stdc++.h>(contains all stls and pre defined function)
+buffers(input and output)
+deafault data types and operators
+how data iss stored in the memory
+///to insatll new compilor for c++(mi)
+//mingw comppilor
+main funtion and interaction with os
+scope of variable
+call stack
+iostream header filename(cin and cout)
