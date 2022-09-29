@@ -30,9 +30,15 @@ void binarynumber(int n)
         arr[k] = 0;
     }
 
-    for(int i=31;i>=0;i++){
-        if(arr[i]==0){
-            arr[i]=1;
+    for (int i = 31; i >= 0; i--)
+    {
+        if (arr[i] == 0)
+        {
+            arr[i] = 1;
+        }
+        else
+        {
+            arr[i] = 0;
         }
     }
 
