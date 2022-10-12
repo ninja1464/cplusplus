@@ -1,0 +1,8 @@
+sbji 0
+sachin 1
+sackin 2
+sacki 3
+baki 4
+bati 5
+chati 6
+chatr 7
