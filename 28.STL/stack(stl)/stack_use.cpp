@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stack>
 using namespace std; 
-void newstack(stack<int> ss){
+void print_stack(stack<int> ss){
  while(!ss.empty()){
      cout<<ss.top()<<" ";
      ss.pop();
@@ -17,7 +17,7 @@ int main()
     s1.push(60);
    
   
-   newstack(s1);
+   print_stack(s1);
 
 return 0;
 }

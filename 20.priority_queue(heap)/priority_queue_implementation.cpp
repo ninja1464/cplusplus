@@ -10,7 +10,7 @@
 
 using namespace std;
 void print(vector<int>v){
-      for(auto &item:v){
+      for(auto item:v){
         cout<<item<<" ";
       }
       cout<<endl;
@@ -69,6 +69,7 @@ class max_priorityqueue{
             swap(cbt[0],cbt[cbt.size()-1]);
             print(cbt);
             cbt.pop_back();
+             print(cbt);
             downheapify();
           }
           int  top(){
