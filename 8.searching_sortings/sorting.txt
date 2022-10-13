@@ -1,0 +1,12 @@
+bubble sort:(stable)
+(optimized version of bubble sort) if array sorted at any iteration then it should stop
+
+//already element at the last
+
+selection sort(not stable):
+
+    smallest elemment at top
+
+insertion sort(stable)
+merge sort(stable)
+quicksort(not stable)
